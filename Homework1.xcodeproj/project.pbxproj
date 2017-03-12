@@ -12,6 +12,7 @@
 		32F767811E73E92E000386DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32F7677F1E73E92E000386DF /* Main.storyboard */; };
 		32F767831E73E92E000386DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32F767821E73E92E000386DF /* Assets.xcassets */; };
 		32F767861E73E92E000386DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32F767841E73E92E000386DF /* LaunchScreen.storyboard */; };
+		32F767AC1E74755A000386DF /* 9 gag homework.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32F767AB1E74755A000386DF /* 9 gag homework.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		32F767821E73E92E000386DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32F767851E73E92E000386DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		32F767871E73E92E000386DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32F767AB1E74755A000386DF /* 9 gag homework.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "9 gag homework.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		32F7676F1E73E92D000386DF = {
 			isa = PBXGroup;
 			children = (
+				32F767AB1E74755A000386DF /* 9 gag homework.storyboard */,
 				32F7677A1E73E92E000386DF /* Homework1 */,
 				32F767791E73E92E000386DF /* Products */,
 			);
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32F767AC1E74755A000386DF /* 9 gag homework.storyboard in Resources */,
 				32F767861E73E92E000386DF /* LaunchScreen.storyboard in Resources */,
 				32F767831E73E92E000386DF /* Assets.xcassets in Resources */,
 				32F767811E73E92E000386DF /* Main.storyboard in Resources */,
